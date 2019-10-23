@@ -1,4 +1,4 @@
-public class Test1 {
+public class Test01 {
     public static void main(String[] args) {
         Cylinder y1 = new Cylinder();
         Cylinder y2 = new Cylinder(100,20);
